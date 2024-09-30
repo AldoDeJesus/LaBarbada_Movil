@@ -227,7 +227,7 @@ Sigue estos pasos para instalar y configurar el proyecto en tu entorno local.
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/EmmanuelR214/LaBarbada_Movil.git
+    git clone https://github.com/AldoDeJesus/LaBarbada_Movil.git
     ```
 
 2. Entra en el directorio del proyecto:
